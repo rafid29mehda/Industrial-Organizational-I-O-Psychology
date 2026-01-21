@@ -6,12 +6,12 @@
 
 ### **1.1 Definition and Core Purpose**
 
-Industrial-Organizational (I/O) Psychology is the scientific study of human behavior in workplace settings and the application of psychological principles to organizational problems. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+Industrial-Organizational (I/O) Psychology is the scientific study of human behavior in workplace settings and the application of psychological principles to organizational problems. 
 
 **The Two-Part Name Reflects Two Focus Areas:**
 
-**Industrial Psychology** = Focus on the individual and the job [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-**Organizational Psychology** = Focus on the organization and its impact on people [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Industrial Psychology** = Focus on the individual and the job  
+**Organizational Psychology** = Focus on the organization and its impact on people  
 
 **Core Purpose:**
 I/O Psychology applies scientific methods to understand and improve:
@@ -21,11 +21,11 @@ I/O Psychology applies scientific methods to understand and improve:
 
 ### **1.2 The Two Major Divisions**
 
-I/O Psychology is divided into two interconnected areas: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+I/O Psychology is divided into two interconnected areas:  
 
 #### **INDUSTRIAL PSYCHOLOGY (Personnel Psychology)**
 
-**Focus**: The individual in relation to the job [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Focus**: The individual in relation to the job  
 
 **Core Topics:**
 - **Job Analysis**: Identifying job requirements and necessary Knowledge, Skills, and Abilities (KSAs)
@@ -39,7 +39,7 @@ I/O Psychology is divided into two interconnected areas: [youtube](https://www.y
 
 #### **ORGANIZATIONAL PSYCHOLOGY**
 
-**Focus**: The organization and how it affects people [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Focus**: The organization and how it affects people  
 
 **Core Topics:**
 - **Motivation**: Understanding what drives employee effort and persistence
@@ -53,7 +53,7 @@ I/O Psychology is divided into two interconnected areas: [youtube](https://www.y
 
 ### **1.3 How I/O Psychology Integrates Multiple Fields**
 
-I/O Psychology synthesizes knowledge from multiple disciplines: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+I/O Psychology synthesizes knowledge from multiple disciplines:  
 
 - **Psychology**: Theories of learning, motivation, personality, cognition
 - **Social Psychology**: Group dynamics, attitudes, interpersonal influence
@@ -65,7 +65,7 @@ I/O Psychology synthesizes knowledge from multiple disciplines: [youtube](https:
 
 ### **1.4 Measuring Success in I/O Psychology**
 
-I/O Psychology defines organizational success broadly, beyond just profit: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+I/O Psychology defines organizational success broadly, beyond just profit:  
 
 **Performance Indicators:**
 - Productivity (output per employee)
@@ -84,19 +84,19 @@ I/O Psychology defines organizational success broadly, beyond just profit: [yout
 - Diversity and inclusion
 
 **The Key Principle:**
-Sustainable organizational success requires both high performance AND healthy, satisfied employees. Exploiting workers for short-term profit is not considered "success" in I/O Psychology. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Sustainable organizational success requires both high performance AND healthy, satisfied employees. Exploiting workers for short-term profit is not considered "success" in I/O Psychology.  
 
 ***
 
 ## **PART 2: HISTORICAL DEVELOPMENT OF I/O PSYCHOLOGY**
 
-Understanding the history helps you appreciate how the field evolved and why certain topics are emphasized. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+Understanding the history helps you appreciate how the field evolved and why certain topics are emphasized.   
 
 ### **2.1 Timeline of Major Events**
 
 #### **1879: Birth of Scientific Psychology**
 
-**Event**: Wilhelm Wundt establishes the first psychology laboratory in Leipzig, Germany. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+**Event**: Wilhelm Wundt establishes the first psychology laboratory in Leipzig, Germany.   
 
 **Significance**:
 - Psychology separated from philosophy
@@ -105,7 +105,7 @@ Understanding the history helps you appreciate how the field evolved and why cer
 
 #### **1917: The Journal of Applied Psychology Founded**
 
-**Event**: Publication of the first journal dedicated to applied psychology. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+**Event**: Publication of the first journal dedicated to applied psychology.   
 
 **Significance**:
 - Marked the shift from pure theory to practical application
@@ -114,47 +114,47 @@ Understanding the history helps you appreciate how the field evolved and why cer
 
 #### **1914-1918: World War I**
 
-**Event**: U.S. military needed to assign millions of recruits to appropriate roles efficiently. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+**Event**: U.S. military needed to assign millions of recruits to appropriate roles efficiently.   
 
 **I/O Psychology's Contribution:**
-Psychologists developed standardized tests: [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+Psychologists developed standardized tests:   
 - **Army Alpha Test**: Written intelligence test for literate soldiers
 - **Army Beta Test**: Non-verbal test for illiterate soldiers or non-English speakers  
 - **Personality Assessments**: To identify leadership potential and temperament
 
 **Impact**:
-- Demonstrated that psychological measurement could predict real-world outcomes at scale [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+- Demonstrated that psychological measurement could predict real-world outcomes at scale   
 - Gave I/O Psychology credibility as a practical discipline
 - Established testing as a core I/O methodology
 
 #### **1930s: The Hawthorne Studies**
 
-**Event**: Research conducted at Western Electric's Hawthorne plant near Chicago. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+**Event**: Research conducted at Western Electric's Hawthorne plant near Chicago.   
 
 **Original Research Question**: How do physical working conditions (lighting levels) affect productivity?
 
-**Unexpected Finding**: Productivity increased regardless of whether lighting was increased or decreased. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+**Unexpected Finding**: Productivity increased regardless of whether lighting was increased or decreased.   
 
-**Explanation - The Hawthorne Effect**: [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+**Explanation - The Hawthorne Effect**:   
 Workers' productivity improved not because of the lighting changes, but because:
 - They knew they were being observed
 - They received attention from researchers
 - They felt valued and important
 
-**Key Insights**: [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+**Key Insights**:   
 - Employee behavior is influenced by **social and psychological factors**, not just physical/economic conditions
 - **Interpersonal interactions** and **work environment** matter for performance
 - **Observation changes behavior** (critical methodological consideration)
 
 **Why This Matters:**
-The Hawthorne Studies shifted I/O Psychology's focus from purely technical/mechanical views of workers to understanding the human, social, and emotional aspects of work. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+The Hawthorne Studies shifted I/O Psychology's focus from purely technical/mechanical views of workers to understanding the human, social, and emotional aspects of work.   
 
 #### **1960s: The Civil Rights Movement**
 
-**Event**: Civil Rights Act of 1964 made employment discrimination illegal. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+**Event**: Civil Rights Act of 1964 made employment discrimination illegal.   
 
 **Impact on I/O Psychology**:
-Organizations needed to justify their hiring, promotion, and compensation practices scientifically. [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+Organizations needed to justify their hiring, promotion, and compensation practices scientifically.   
 
 **I/O Psychologists' Role:**
 - Demonstrating that selection tools are **job-related** and **valid**
@@ -162,7 +162,7 @@ Organizations needed to justify their hiring, promotion, and compensation practi
 - Designing **fair** and **legally defensible** assessment procedures
 
 **Significance**:
-- Established legal and ethical standards for employee selection [youtube](https://www.youtube.com/watch?v=rIPaK5ObMpM)
+- Established legal and ethical standards for employee selection   
 - Made validity evidence a legal requirement
 - Elevated the importance of fairness and equity in I/O Psychology
 
@@ -170,11 +170,11 @@ Organizations needed to justify their hiring, promotion, and compensation practi
 
 ## **PART 3: CAREERS IN I/O PSYCHOLOGY**
 
-I/O Psychology offers two primary career paths: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+I/O Psychology offers two primary career paths:  
 
 ### **3.1 Scientist (Academic Researcher)**
 
-**Primary Role**: Conduct rigorous research to generate new knowledge about workplace behavior. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Primary Role**: Conduct rigorous research to generate new knowledge about workplace behavior.  
 
 **Typical Activities:**
 - Design and execute research studies
@@ -200,7 +200,7 @@ I/O Psychology offers two primary career paths: [youtube](https://www.youtube.co
 
 ### **3.2 Practitioner (Applied Professional)**
 
-**Primary Role**: Apply psychological knowledge to solve organizational problems. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Primary Role**: Apply psychological knowledge to solve organizational problems.  
 
 **Typical Activities:**
 - Design and validate selection systems (tests, interviews, assessment centers)
@@ -212,12 +212,12 @@ I/O Psychology offers two primary career paths: [youtube](https://www.youtube.co
 
 **Work Settings:**
 
-**Option 1: Consulting Firms** [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Option 1: Consulting Firms**  
 - Serve multiple client organizations
 - Examples: Korn Ferry, DDI, SHL, Mercer
 - Project-based work across different industries
 
-**Option 2: In-House Researcher/People Analytics** [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Option 2: In-House Researcher/People Analytics**  
 - Work for a single organization
 - Examples: Google People Analytics, Microsoft Research, Meta Workforce Analytics
 - Deep knowledge of one organization's context
@@ -234,7 +234,7 @@ I/O Psychology offers two primary career paths: [youtube](https://www.youtube.co
 
 ### **3.3 Market Outlook**
 
-I/O Psychology is one of the fastest-growing and highest-paying areas of psychology. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+I/O Psychology is one of the fastest-growing and highest-paying areas of psychology.  
 
 **Why Growing Demand:**
 - Organizations increasingly use data-driven HR decisions (People Analytics)
@@ -255,7 +255,7 @@ I/O Psychology is one of the fastest-growing and highest-paying areas of psychol
 
 ### **4.1 Why Research Matters in I/O Psychology**
 
-I/O Psychology is a **science**, not common sense or intuition. Every claim about workplace behavior must be supported by empirical evidence. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+I/O Psychology is a **science**, not common sense or intuition. Every claim about workplace behavior must be supported by empirical evidence.  
 
 **Problems Without Research:**
 Organizations make decisions based on:
@@ -270,7 +270,7 @@ Organizations make decisions based on:
 - Motivation programs that backfire
 - Unintentional discrimination against protected groups
 
-**What Research Provides**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**What Research Provides**:  
 - **Data-driven solutions** that actually work
 - **Evidence** to critically evaluate claims
 - **Informed decision-making** rather than guesswork
@@ -280,7 +280,7 @@ Organizations make decisions based on:
 
 #### **Independent Variable (IV)**
 
-**Definition**: The predictor variable that the researcher manipulates or measures. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: The predictor variable that the researcher manipulates or measures.  
 
 **Also called**: Predictor, treatment variable, factor
 
@@ -294,7 +294,7 @@ Organizations make decisions based on:
 
 #### **Dependent Variable (DV)**
 
-**Definition**: The outcome variable that depends on (or is predicted by) the IV. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: The outcome variable that depends on (or is predicted by) the IV.  
 
 **Also called**: Outcome variable, criterion
 
@@ -325,7 +325,7 @@ Design:
 
 #### **Population**
 
-**Definition**: The **entire group** of interest that you want to understand. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: The **entire group** of interest that you want to understand.  
 
 **Characteristics:**
 - Defined by research question
@@ -340,7 +340,7 @@ Design:
 
 #### **Sample**
 
-**Definition**: A **subset** of the population that you actually study. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: A **subset** of the population that you actually study.  
 
 **Purpose**: Use the sample to make **inferences** about the population
 
@@ -366,7 +366,7 @@ We use M = 3.4 to ESTIMATE μ
 
 #### **Parameter**
 
-**Definition**: A numerical value describing a **population**. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: A numerical value describing a **population**.  
 
 **Notation**: Greek letters
 - μ (mu) = Population mean
@@ -381,7 +381,7 @@ We use M = 3.4 to ESTIMATE μ
 
 #### **Statistic**
 
-**Definition**: A numerical value describing a **sample**. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: A numerical value describing a **sample**.  
 
 **Notation**: Roman letters
 - M or \(\bar{X}\) = Sample mean
@@ -407,11 +407,11 @@ Sample r        → estimates → Population ρ
 
 ## **PART 5: SAMPLING STRATEGIES**
 
-How you select your sample determines whether your findings generalize beyond the specific people you studied. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+How you select your sample determines whether your findings generalize beyond the specific people you studied.  
 
 ### **5.1 Random Sample**
 
-**Definition**: Every individual in the population has an **equal chance** of being selected. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Every individual in the population has an **equal chance** of being selected.  
 
 **Procedure:**
 1. Obtain a complete list of the population (sampling frame)
@@ -445,12 +445,12 @@ Result: Each employee had a 500/10,000 = 5% chance of selection
 - Low response rates (people decline participation)
 - Difficult to access selected individuals
 
-**Why It's Rare in I/O Psychology**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Why It's Rare in I/O Psychology**:  
 Most populations of interest (e.g., "all managers worldwide") don't have accessible, complete lists. Organizations rarely give researchers random access to all employees.
 
 ### **5.2 Stratified Random Sample**
 
-**Definition**: Divide the population into meaningful subgroups (strata), then randomly sample within each stratum. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Divide the population into meaningful subgroups (strata), then randomly sample within each stratum.  
 
 **Purpose**: Ensure adequate representation of important subgroups
 
@@ -510,7 +510,7 @@ Result:
 
 ### **5.3 Convenience Sample**
 
-**Definition**: Study whoever is **accessible and willing** to participate. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Study whoever is **accessible and willing** to participate.  
 
 **Also Called**: Availability sampling, opportunity sampling
 
@@ -527,15 +527,15 @@ Result:
 - Attendees at a conference
 
 **Advantages:**
-- Quick and inexpensive [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+- Quick and inexpensive  
 - Easy to implement
 - No need for population lists
 - High practical feasibility
 
 **Disadvantages:**
-- **Selection bias**: Volunteers differ systematically from non-volunteers [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-- **Limited generalizability**: Findings may not extend beyond your specific sample [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-- **Confounding factors**: Unique sample characteristics may drive results [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+- **Selection bias**: Volunteers differ systematically from non-volunteers  
+- **Limited generalizability**: Findings may not extend beyond your specific sample  
+- **Confounding factors**: Unique sample characteristics may drive results  
 - Cannot calculate sampling error or confidence intervals accurately
 
 **Example of Selection Bias:**
@@ -593,11 +593,11 @@ Conclusion: Results are specific to tech startups, not all organizations
 
 ## **PART 6: FROM IDEAS TO THEORIES**
 
-Research progresses through stages of increasing formalization. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Research progresses through stages of increasing formalization.  
 
 ### **6.1 Ideas**
 
-**Definition**: Informal observations or questions that spark curiosity. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Informal observations or questions that spark curiosity.  
 
 **Characteristics:**
 - Based on casual observation or personal experience
@@ -620,9 +620,9 @@ Research progresses through stages of increasing formalization. [youtube](https:
 
 ### **6.2 Hypotheses**
 
-**Definition**: Specific, testable predictions based on prior research and theory. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Specific, testable predictions based on prior research and theory.  
 
-**Requirements for a Good Hypothesis**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Requirements for a Good Hypothesis**:  
 1. **Specific**: Clearly identifies variables and relationships
 2. **Testable**: Can be supported or refuted with data
 3. **Directional** (when theory allows): States positive or negative relationship
@@ -650,13 +650,13 @@ Research progresses through stages of increasing formalization. [youtube](https:
 
 ### **6.3 Distinguishing Hypotheses from Research Questions**
 
-**Hypothesis**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Hypothesis**:  
 - Makes a specific prediction
 - States expected direction of relationship
 - Tests established theory
 - Example: "Conscientiousness will positively predict job performance"
 
-**Research Question**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Research Question**:  
 - Open-ended exploration
 - No specific prediction
 - Used when theory is underdeveloped or absent
@@ -676,7 +676,7 @@ Use **Research Question** when:
 
 ### **6.4 Theories**
 
-**Definition**: Systematic sets of widely accepted assumptions that explain **why** phenomena occur, based on cumulative and replicated research. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Systematic sets of widely accepted assumptions that explain **why** phenomena occur, based on cumulative and replicated research.  
 
 **Characteristics of Strong Theories:**
 
