@@ -1513,7 +1513,7 @@ Company fails to expand talent pool
 
 ## **INTRODUCTION: SELECTING THE BEST CANDIDATES**
 
-Once recruitment has generated a pool of applicants, organizations must evaluate and select the best candidates. This requires using selection tools that are: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+Once recruitment has generated a pool of applicants, organizations must evaluate and select the best candidates. This requires using selection tools that are:  
 - **Valid**: Predict job performance accurately
 - **Reliable**: Produce consistent results
 - **Fair**: Don't discriminate against protected groups
@@ -1556,7 +1556,7 @@ ESSENTIALLY ZERO VALIDITY:
 - Astrology
 ```
 
-This section covers three major selection techniques: Assessment Centers, Personality Tests, and Employment Interviews. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+This section covers three major selection techniques: Assessment Centers, Personality Tests, and Employment Interviews.  
 
 ***
 
@@ -1564,11 +1564,11 @@ This section covers three major selection techniques: Assessment Centers, Person
 
 ### **Definition and Overview**
 
-**Assessment Center**: A comprehensive evaluation method where candidates complete multiple exercises designed to simulate job tasks, while trained assessors observe and rate their performance. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Assessment Center**: A comprehensive evaluation method where candidates complete multiple exercises designed to simulate job tasks, while trained assessors observe and rate their performance.  
 
 **Key Characteristics:**
 
-**1. Multiple Exercises**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. Multiple Exercises**:  
 - Candidates complete 5-10 different activities
 - Each exercise targets different competencies
 - Typically conducted over 1-3 days
@@ -1578,7 +1578,7 @@ This section covers three major selection techniques: Assessment Centers, Person
 - Often senior managers or psychologists
 - Observe and rate candidate behavior independently
 
-**3. Job Simulation**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**3. Job Simulation**:  
 - Exercises designed to mirror actual job demands
 - High fidelity to real work situations
 - Samples actual job behaviors
@@ -1595,10 +1595,10 @@ This section covers three major selection techniques: Assessment Centers, Person
 
 ### **Why Assessment Centers Are Effective**
 
-**Excellent Predictors of Job Performance**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Excellent Predictors of Job Performance**:  
 - Meta-analyses show validity coefficients of .35 to .45
 - Among the best selection methods available
-- Particularly effective for managerial and leadership roles [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+- Particularly effective for managerial and leadership roles  
 
 **Reasons for High Validity:**
 ✓ Multiple measurements reduce error
@@ -1607,14 +1607,14 @@ This section covers three major selection techniques: Assessment Centers, Person
 ✓ Standardized evaluation reduces bias
 ✓ Assesses competencies that interviews miss (e.g., handling complex, dynamic situations)
 
-### **Disadvantages of Assessment Centers** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+### **Disadvantages of Assessment Centers**  
 
-**1. Time-Consuming**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. Time-Consuming**:  
 - Candidates: 1-3 days away from current work
 - Assessors: Must be trained and available during entire assessment
 - Scoring and integration: Additional hours after exercises
 
-**2. Expensive**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**2. Expensive**:  
 - Facility costs (dedicated space with observation rooms)
 - Assessor training and time (paying senior managers to observe)
 - Materials development (creating valid exercises)
@@ -1623,13 +1623,13 @@ This section covers three major selection techniques: Assessment Centers, Person
 
 **When Worth the Investment:**
 - High-level positions (executives, senior managers) where hiring mistakes are extremely costly
-- Technical or leadership roles requiring specialized competencies [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+- Technical or leadership roles requiring specialized competencies  
 - Large-scale hiring (develop once, use for many candidates)
 - Legal defensibility is critical (high-stakes, visible positions)
 
-### **Common Assessment Center Exercises** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+### **Common Assessment Center Exercises**  
 
-#### **Exercise 1: Leaderless Group Discussion (LGD)** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **Exercise 1: Leaderless Group Discussion (LGD)**  
 
 **Description**: 4-8 candidates discuss a business problem or case study as a group, with no designated leader.
 
@@ -1689,7 +1689,7 @@ INFLUENCE:            5/5  (Persuaded group to adopt his framework)
 OVERALL:              4.2/5
 ```
 
-#### **Exercise 2: In-Basket Exercise** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **Exercise 2: In-Basket Exercise**  
 
 **Description**: Candidate receives a stack of emails, memos, reports, and messages (an "in-basket") and must prioritize, respond, and take action within a time limit.
 
@@ -1743,7 +1743,7 @@ ITEM 6: INVITATION TO NETWORKING EVENT
 - Evidence of delegation vs. micromanagement
 - Time management effectiveness
 
-#### **Exercise 3: Business Simulations and Case Studies** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **Exercise 3: Business Simulations and Case Studies**  
 
 **Description**: Candidates analyze complex business scenarios and present recommendations.
 
@@ -1794,7 +1794,7 @@ Task:
 - Presentation quality (organization, clarity, confidence)
 - Ability to think on feet during Q&A
 
-#### **Exercise 4: Work Sample Tests** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **Exercise 4: Work Sample Tests**  
 
 **Description**: Candidates perform actual job tasks or realistic simulations.
 
@@ -1831,7 +1831,7 @@ Task:
 ✓ Directly samples job behaviors
 ✓ Excellent predictive validity
 
-#### **Exercise 5: Role-Play Simulations** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **Exercise 5: Role-Play Simulations**  
 
 **Description**: Candidates interact with trained role-players in realistic work scenarios.
 
@@ -1963,12 +1963,12 @@ delegation and collaborative decision-making during onboarding.
 
 ### **Definition and Overview**
 
-**Personality Tests**: Assessments that measure stable individual characteristics, traits, and behavioral tendencies. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Personality Tests**: Assessments that measure stable individual characteristics, traits, and behavioral tendencies.  
 
 **Purpose in Selection**: Identify candidates whose personality traits align with job requirements and organizational culture.
 
-**Key Principle**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
-Personality tests should be **directly tied to job performance**. Not all personality traits matter for all jobs—must demonstrate job relevance. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Key Principle**:  
+Personality tests should be **directly tied to job performance**. Not all personality traits matter for all jobs—must demonstrate job relevance.  
 
 ### **The Big Five Personality Model**
 
@@ -1999,9 +1999,9 @@ Most I/O personality research uses the **Five-Factor Model (Big Five)**:
 - High: Curious, creative, enjoys new experiences
 - Low: Practical, conventional, prefers routine
 
-### **Conscientiousness: The Universal Predictor** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+### **Conscientiousness: The Universal Predictor**  
 
-**Research Finding**: Conscientiousness predicts job performance across virtually all jobs. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Research Finding**: Conscientiousness predicts job performance across virtually all jobs.  
 
 **Meta-Analytic Results**:
 - Average validity: r = .25 to .30
@@ -2041,7 +2041,7 @@ Difference: Conscientiousness, not ability
 
 ### **Job-Specific Personality Requirements**
 
-While conscientiousness is universally important, other traits matter depending on the job: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+While conscientiousness is universally important, other traits matter depending on the job:  
 
 **Sales Roles:**
 - **Extraversion** (High): Social interaction, persuasion, networking
@@ -2141,9 +2141,9 @@ Agreeableness Items:
 - "Conscientiousness" is very general
 - May not capture specific work styles relevant to job
 
-### **Best Practices for Using Personality Tests** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+### **Best Practices for Using Personality Tests**  
 
-**1. Establish Job-Relatedness**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. Establish Job-Relatedness**:  
 - Conduct job analysis to identify required personality traits
 - Validate test predicts performance in your organization
 - Document why personality matters for this job
@@ -2190,15 +2190,15 @@ Interviews are:
 - **Most trusted** by hiring managers ("I can tell if someone's a good fit")
 - Yet often **poor predictors** of job performance (when unstructured)
 
-**Why?** Traditional unstructured interviews are highly subjective and susceptible to bias. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Why?** Traditional unstructured interviews are highly subjective and susceptible to bias.  
 
-**The Solution:** **Structured interviews** dramatically improve validity and reduce bias. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**The Solution:** **Structured interviews** dramatically improve validity and reduce bias.  
 
 ### **7.3.1 Unstructured Interviews**
 
-**Definition**: Informal, conversational interviews where questions vary across candidates and interviewers use subjective judgment. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Informal, conversational interviews where questions vary across candidates and interviewers use subjective judgment.  
 
-**Characteristics**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Characteristics**:  
 
 **1. No Standardization:**
 - Each candidate asked different questions
@@ -2217,7 +2217,7 @@ Interviews are:
 
 **Why Unstructured Interviews Are Popular:**
 
-Despite poor validity, managers prefer them because: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+Despite poor validity, managers prefer them because:  
 - Feel natural and conversational
 - Believe they can "read people"
 - Flexibility to explore interesting topics
@@ -2245,14 +2245,14 @@ INTERVIEWER: "Do you have any questions for me?"
 DECISION: "I liked them. They seemed smart and personable. Let's hire them."
 ```
 
-### **Problems With Unstructured Interviews** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+### **Problems With Unstructured Interviews**  
 
 **Poor Predictive Validity:**
 - Unstructured interview validity: r = .20 to .30
 - Only slightly better than chance
 - Structured interview validity: r = .50 to .60
 
-**Problem 1: Lack of Job-Relatedness** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Problem 1: Lack of Job-Relatedness**  
 
 Questions often irrelevant to job performance:
 - "Where do you see yourself in 5 years?"
@@ -2261,7 +2261,7 @@ Questions often irrelevant to job performance:
 
 These don't predict job success.
 
-**Problem 2: Subjectivity** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Problem 2: Subjectivity**  
 
 Without standardized criteria, decisions based on:
 - Gut feelings
@@ -2269,7 +2269,7 @@ Without standardized criteria, decisions based on:
 - First impressions
 - Irrelevant factors (appearance, charisma)
 
-**Problem 3: Primacy Effects** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Problem 3: Primacy Effects**  
 
 **Definition**: First impressions disproportionately influence final judgment.
 
@@ -2303,7 +2303,7 @@ this around..."
 Result: Primacy effect creates self-fulfilling prophecy
 ```
 
-**Problem 4: Contrast Effects** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Problem 4: Contrast Effects**  
 
 **Definition**: Candidate evaluated relative to previous candidate, not absolute standards.
 
@@ -2321,7 +2321,7 @@ PROBLEM: Candidate B and C's ratings influenced by who came before,
 not just their own merits
 ```
 
-**Problem 5: Interviewer-Interviewee Similarity Bias** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Problem 5: Interviewer-Interviewee Similarity Bias**  
 
 **Definition**: Interviewers favor candidates similar to themselves.
 
@@ -2346,18 +2346,18 @@ RATING: 3/5
 PROBLEM: Both could be equally qualified, but similarity bias affects ratings
 ```
 
-**Problem 6: Appearance Bias** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Problem 6: Appearance Bias**  
 
 **Definition**: Physical attractiveness inappropriately influences ratings.
 
-**Research Finding**: Attractive candidates rated higher, even when qualifications are equal. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Research Finding**: Attractive candidates rated higher, even when qualifications are equal.  
 
 **Why It Happens:**
 - "What is beautiful is good" stereotype (halo effect)
 - Attractiveness associated with confidence, competence, likability
 - Unconscious bias
 
-**Problem 7: Nonverbal Behavior Bias** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Problem 7: Nonverbal Behavior Bias**  
 
 **Definition**: Body language, tone, and mannerisms disproportionately influence ratings.
 
@@ -2386,9 +2386,9 @@ PROBLEM: Nonverbal style ≠ Job competence
 But interviewers conflate the two
 ```
 
-**Problem 8: Negative Information Bias** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Problem 8: Negative Information Bias**  
 
-**Definition**: Negative information weighs more heavily than positive information. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Negative information weighs more heavily than positive information.  
 
 **Research Finding**: One weakness can overshadow multiple strengths.
 
@@ -2415,21 +2415,21 @@ Without structured notes:
 
 ### **7.3.2 Structured Interviews**
 
-**Definition**: Standardized interviews where all candidates answer the same questions, which are based on job analysis, and responses are rated using predetermined criteria. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Standardized interviews where all candidates answer the same questions, which are based on job analysis, and responses are rated using predetermined criteria.  
 
-**Key Characteristics**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Key Characteristics**:  
 
-**1. Based on Job Analysis**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. Based on Job Analysis**:  
 - Questions derived from critical job requirements
 - Each question targets specific competency
 - Job-relevant by design
 
-**2. Standardized Questions**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**2. Standardized Questions**:  
 - All candidates asked identical questions
 - Same wording, same order
 - Follow-up probes are scripted
 
-**3. Predetermined Rating Scale**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**3. Predetermined Rating Scale**:  
 - Behaviorally anchored rating scales (BARS)
 - Specific criteria for each rating level
 - Reduces subjectivity
@@ -2444,14 +2444,14 @@ Without structured notes:
 - OR multiple sequential interviews
 - Aggregate ratings to reduce individual bias
 
-### **Why Structured Interviews Are Superior** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+### **Why Structured Interviews Are Superior**  
 
-**1. High Validity**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. High Validity**:  
 - Structured interview validity: r = .50 to .60
 - Among the best selection methods available
 - Comparable to cognitive ability tests
 
-**2. Legally Defensible**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**2. Legally Defensible**:  
 - Job-relatedness is documented (based on job analysis)
 - Standardization ensures fairness
 - Rating criteria are objective
@@ -2467,7 +2467,7 @@ Without structured notes:
 - Quantitative ratings enable ranking
 - Can identify specific competency gaps
 
-### **Types of Structured Interview Questions** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+### **Types of Structured Interview Questions**  
 
 #### **1. Situational Questions (Future-Oriented)**
 
@@ -2578,9 +2578,9 @@ CANDIDATE: "They were satisfied and actually left a positive review..."
 NOW interviewer has specific, rateable information.
 ```
 
-#### **3. Clarifier Questions (Candidate-Specific)** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **3. Clarifier Questions (Candidate-Specific)**  
 
-**Format**: Questions unique to each candidate based on their resume or application. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Format**: Questions unique to each candidate based on their resume or application.  
 
 **Purpose**: Clarify experiences, fill gaps, probe inconsistencies.
 
@@ -2788,7 +2788,7 @@ Manager preference      High                 Moderate
 
 ### **Best Practices for Interviews**
 
-**1. Always Use Structure**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. Always Use Structure**:  
 - Develop questions from job analysis
 - Standardize across candidates
 - Use rating scales
