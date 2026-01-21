@@ -4,16 +4,16 @@
 
 ## **PART 1: QUANTITATIVE VS. QUALITATIVE RESEARCH**
 
-Before diving into specific research designs, we need to understand the two broad approaches to research in I/O Psychology. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Before diving into specific research designs, we need to understand the two broad approaches to research in I/O Psychology.  
 
 ### **1.1 Quantitative Research**
 
-**Definition**: Research that uses numerical data and statistical analysis to test hypotheses. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Research that uses numerical data and statistical analysis to test hypotheses.  
 
 **Characteristics:**
 - **Numerical measurement**: Variables are quantified (e.g., satisfaction rated 1-5, performance measured in units)
-- **Large samples**: Typically studies hundreds or thousands of participants [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-- **Statistical testing**: Uses inferential statistics to test hypotheses [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+- **Large samples**: Typically studies hundreds or thousands of participants  
+- **Statistical testing**: Uses inferential statistics to test hypotheses  
 - **Hypothesis-driven**: Tests specific predictions
 - **Objective**: Minimizes researcher subjectivity
 
@@ -35,13 +35,13 @@ Before diving into specific research designs, we need to understand the two broa
 
 ### **1.2 Qualitative Research**
 
-**Definition**: Research that uses non-numerical data (words, observations, documents) to understand phenomena in depth. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Research that uses non-numerical data (words, observations, documents) to understand phenomena in depth.  
 
 **Characteristics:**
-- **Non-numerical data**: Interviews, observations, documents, videos [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-- **Small samples**: Typically studies few participants in depth [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-- **Narrower focus**: Deep understanding of specific cases [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-- **Long-term observation**: Extended engagement with participants [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+- **Non-numerical data**: Interviews, observations, documents, videos  
+- **Small samples**: Typically studies few participants in depth  
+- **Narrower focus**: Deep understanding of specific cases  
+- **Long-term observation**: Extended engagement with participants  
 - **Exploratory**: Generates insights and theories rather than testing them
 
 **Examples:**
@@ -84,7 +84,7 @@ Many I/O researchers use both:
 
 ## **PART 2: TYPES OF QUANTITATIVE RESEARCH DESIGNS**
 
-I/O Psychology uses three primary quantitative research designs. They differ critically in: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+I/O Psychology uses three primary quantitative research designs. They differ critically in:  
 - Ability to infer **causation**
 - Level of **control**
 - **Realism** of setting
@@ -103,7 +103,7 @@ CORRELATIONAL STUDY
 
 **The Central Question**: Did X **cause** Y, or are they just associated?
 
-Only **true experiments** can answer this definitively. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Only **true experiments** can answer this definitively.  
 
 ***
 
@@ -111,13 +111,13 @@ Only **true experiments** can answer this definitively. [youtube](https://www.yo
 
 ### **Definition**
 
-A research design where the researcher **manipulates** the independent variable and **randomly assigns** participants to conditions. This is the **only** design that allows causal conclusions. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+A research design where the researcher **manipulates** the independent variable and **randomly assigns** participants to conditions. This is the **only** design that allows causal conclusions.  
 
 ### **Three Essential Requirements**
 
 #### **Requirement 1: Randomization**
 
-**What It Means**: Participants are **randomly assigned** to experimental conditions. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**What It Means**: Participants are **randomly assigned** to experimental conditions.  
 
 **Why It's Critical**:
 - Makes groups equivalent **before** the treatment
@@ -142,7 +142,7 @@ Result: Groups are equivalent before training begins
 
 #### **Requirement 2: Manipulation**
 
-**What It Means**: The researcher **actively controls and varies** the independent variable. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**What It Means**: The researcher **actively controls and varies** the independent variable.  
 
 **Key Point**: The researcher creates the conditions, doesn't just observe existing differences.
 
@@ -158,7 +158,7 @@ The researcher CREATES these feedback types
 
 #### **Requirement 3: Control**
 
-**What It Means**: Include a **control group** that receives no treatment or standard treatment. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**What It Means**: Include a **control group** that receives no treatment or standard treatment.  
 
 **Why It's Necessary**: Provides a baseline comparison to isolate the treatment effect.
 
@@ -324,14 +324,14 @@ Common in tech, rare in traditional I/O research
 
 ### **Definition**
 
-Research that involves **manipulation** but **lacks randomization**. Participants are not randomly assigned—they come in pre-existing groups or self-select into conditions. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Research that involves **manipulation** but **lacks randomization**. Participants are not randomly assigned—they come in pre-existing groups or self-select into conditions.  
 
 **Why "Quasi" (meaning "resembling")?**
-It looks like an experiment (you manipulate an IV and measure a DV), but without randomization, you cannot definitively rule out alternative explanations. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+It looks like an experiment (you manipulate an IV and measure a DV), but without randomization, you cannot definitively rule out alternative explanations.  
 
 ### **Key Limitation**
 
-**Cannot infer causation**. Can only say the intervention was "associated with" or "suggestive of" effects, not that it "caused" them. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Cannot infer causation**. Can only say the intervention was "associated with" or "suggestive of" effects, not that it "caused" them.  
 
 **Why?** Without random assignment, groups may differ systematically before treatment. Post-treatment differences might be due to:
 - Pre-existing group differences (selection bias)
@@ -343,7 +343,7 @@ It looks like an experiment (you manipulate an IV and measure a DV), but without
 
 #### **Design 1: Pre-Existing Groups (Non-Equivalent Groups Design)**
 
-**Structure**: Compare two or more groups that naturally exist, without random assignment. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Structure**: Compare two or more groups that naturally exist, without random assignment.  
 
 **Example: Comparing Office Layouts**
 ```
@@ -383,7 +383,7 @@ Cannot determine definitively!
 
 #### **Design 2: One-Group Pretest-Posttest**
 
-**Structure**: Measure the same group before and after an intervention, with no control group. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Structure**: Measure the same group before and after an intervention, with no control group.  
 
 **Example: Evaluating Training**
 ```
@@ -419,7 +419,7 @@ Cannot isolate training effect!
 
 #### **Design 3: Time Series Design**
 
-**Structure**: Multiple measurements before and after intervention. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Structure**: Multiple measurements before and after intervention.  
 
 **Example: Policy Change Impact**
 ```
@@ -457,7 +457,7 @@ Stronger than single pretest-posttest because:
 
 #### **Design 4: Non-Equivalent Control Group Design**
 
-**Structure**: Compare treatment and control groups, with pretest and posttest, but no random assignment. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Structure**: Compare treatment and control groups, with pretest and posttest, but no random assignment.  
 
 **Example: Wellness Program**
 ```
@@ -501,12 +501,12 @@ Limitation: Sites weren't randomly assigned
 
 ### **Conclusions from Quasi-Experiments**
 
-**What You CAN Say**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**What You CAN Say**:  
 - "The intervention was **associated with** improvements"
 - "Results are **suggestive of** a causal relationship"
 - "Findings are **consistent with** the hypothesis that X affects Y"
 
-**What You CANNOT Say**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**What You CANNOT Say**:  
 - "The intervention **caused** improvements"
 - "X leads to Y"
 - "We can conclude definitively that..."
@@ -523,25 +523,25 @@ Limitation: Sites weren't randomly assigned
 
 ### **Definition**
 
-Research that observes how variables are **naturally related** in a single group, without manipulation, grouping, or control. The researcher is a **passive observer**. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Research that observes how variables are **naturally related** in a single group, without manipulation, grouping, or control. The researcher is a **passive observer**.  
 
 ### **Characteristics**
 
-- **No manipulation**: Researcher doesn't change anything [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-- **No random assignment**: Everyone is in one group [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+- **No manipulation**: Researcher doesn't change anything  
+- **No random assignment**: Everyone is in one group  
 - **Observational**: Measures variables as they naturally exist
 - **Association-focused**: Examines relationships, not causes
 
 ### **What You Can Learn**
 
-✓ Whether two variables are associated [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-✓ Direction of relationship (positive or negative) [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-✓ Strength of relationship (weak, moderate, strong) [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✓ Whether two variables are associated  
+✓ Direction of relationship (positive or negative)  
+✓ Strength of relationship (weak, moderate, strong)  
 ✓ Prediction (X predicts Y)
 
 ### **What You CANNOT Learn**
 
-✗ Whether one variable **causes** the other [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✗ Whether one variable **causes** the other  
 ✗ Direction of causation (does X cause Y, or Y cause X?)
 ✗ Whether a third variable causes both
 
@@ -557,13 +557,13 @@ Research that observes how variables are **naturally related** in a single group
 
 **Findings:**
 
-**What You CAN Conclude**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**What You CAN Conclude**:  
 ✓ "Job satisfaction and performance are positively correlated"
 ✓ "Employees with higher satisfaction tend to have higher performance"
 ✓ "Satisfaction explains 12% of variance in performance" (r² = .35² = .12)
 ✓ "Satisfaction is a significant predictor of performance"
 
-**What You CANNOT Conclude**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**What You CANNOT Conclude**:  
 ✗ "Job satisfaction **causes** better performance"
 ✗ "Improving satisfaction will improve performance"
 ✗ "Satisfaction leads to performance"
@@ -597,7 +597,7 @@ Correlation between satisfaction and performance is SPURIOUS
 (Both caused by conscientiousness)
 ```
 
-**Correlational studies cannot distinguish these explanations!** [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Correlational studies cannot distinguish these explanations!**  
 
 ### **Classic Example: The Third Variable Problem**
 
@@ -660,11 +660,11 @@ Implication: Training effect may be overestimated
 
 ### **Why Correlational Studies Are Most Common in I/O Psychology**
 
-Despite causal ambiguity, correlational designs dominate I/O research: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Despite causal ambiguity, correlational designs dominate I/O research:  
 
 **Advantages:**
 
-**1. Realistic** [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**1. Realistic**  
 - Studies actual workplace behavior in natural settings
 - High external validity (generalizable to real work contexts)
 - Captures complexity of organizational life
@@ -686,7 +686,7 @@ Despite causal ambiguity, correlational designs dominate I/O research: [youtube]
 
 **Disadvantages:**
 
-**1. Causal Ambiguity** [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**1. Causal Ambiguity**  
 - Cannot determine cause-effect
 - Cannot rule out third variables
 - Cannot determine direction of causation
@@ -787,7 +787,7 @@ The relationship is more robust and likely generalizable
 
 ## **PART 3: RESEARCH SETTINGS**
 
-Where you conduct research affects both **internal validity** (confidence in causal conclusions) and **external validity** (generalizability to real workplaces). [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Where you conduct research affects both **internal validity** (confidence in causal conclusions) and **external validity** (generalizability to real workplaces).  
 
 ### **The Control-Realism Tradeoff**
 
@@ -801,11 +801,11 @@ LOW External Validity                 LOW Internal Validity
 
 ### **3.1 Laboratory Studies**
 
-**Definition**: Research conducted in controlled, artificial settings (university labs, simulated work environments). [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Research conducted in controlled, artificial settings (university labs, simulated work environments).  
 
 **Characteristics:**
 
-**High Control**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**High Control**:  
 - Researcher manipulates all variables precisely
 - Eliminates distractions and extraneous influences
 - Standardizes conditions across participants
@@ -822,7 +822,7 @@ LOW External Validity                 LOW Internal Validity
 
 **Advantages:**
 
-✓ **Establish causation**: High control allows true experiments [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✓ **Establish causation**: High control allows true experiments  
 ✓ **Test specific hypotheses**: Isolate variables of interest
 ✓ **Study rare/unethical phenomena**: Simulate situations that don't naturally occur
 ✓ **Cost-effective**: Use student participants (convenient, inexpensive)
@@ -830,12 +830,12 @@ LOW External Validity                 LOW Internal Validity
 
 **Disadvantages:**
 
-✗ **Artificiality**: Simulated tasks don't reflect real job complexity [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-✗ **Participant differences**: Students ≠ employees [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✗ **Artificiality**: Simulated tasks don't reflect real job complexity  
+✗ **Participant differences**: Students ≠ employees  
   - Different motivation (course credit vs. livelihood)
   - Different experience (no work history)
   - Different stakes (no real consequences)
-✗ **Limited generalizability**: Lab findings may not translate to actual workplaces [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✗ **Limited generalizability**: Lab findings may not translate to actual workplaces  
 ✗ **Demand characteristics**: Participants guess study purpose and alter behavior
 ✗ **Short duration**: Most lab studies last < 2 hours; work relationships develop over years
 
@@ -872,11 +872,11 @@ Weaknesses:
 
 ### **3.2 Field Studies**
 
-**Definition**: Research conducted in actual workplaces with real employees doing their actual jobs. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Research conducted in actual workplaces with real employees doing their actual jobs.  
 
 **Characteristics:**
 
-**Realistic Setting**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Realistic Setting**:  
 - Natural work environment
 - Real organizational context
 - Authentic work tasks
@@ -893,7 +893,7 @@ Weaknesses:
 
 **Advantages:**
 
-✓ **High external validity**: Findings generalize to similar workplaces [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✓ **High external validity**: Findings generalize to similar workplaces  
 ✓ **Ecological validity**: Captures complexity and nuance of real work
 ✓ **Participant engagement**: Employees care about outcomes (real stakes)
 ✓ **Long-term observation**: Study phenomena that unfold over time
@@ -901,7 +901,7 @@ Weaknesses:
 
 **Disadvantages:**
 
-✗ **Low control**: Cannot control extraneous variables [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✗ **Low control**: Cannot control extraneous variables  
   - Different managers, departments, work conditions
   - Organizational changes during study (restructuring, policy changes)
   - External events (economic changes, industry trends)
@@ -948,7 +948,7 @@ Weaknesses:
 
 ### **3.3 Archival Data Research**
 
-**Definition**: Research using **existing data** that organizations have already collected for operational purposes. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Research using **existing data** that organizations have already collected for operational purposes.  
 
 **Types of Archival Data:**
 - HR databases (hiring, performance, salary, promotion, turnover)
@@ -960,7 +960,7 @@ Weaknesses:
 
 **Characteristics:**
 
-**No New Data Collection**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**No New Data Collection**:  
 - Data already exists in company records
 - Researcher accesses and analyzes existing information
 
@@ -976,25 +976,25 @@ Weaknesses:
 
 **Advantages:**
 
-✓ **Low cost**: Data already collected, no survey/experiment expenses [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-✓ **Large samples**: Entire populations, high statistical power [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-✓ **Longitudinal**: Track employees over years [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-✓ **Objective measures**: Behavioral outcomes, not just attitudes [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✓ **Low cost**: Data already collected, no survey/experiment expenses  
+✓ **Large samples**: Entire populations, high statistical power  
+✓ **Longitudinal**: Track employees over years  
+✓ **Objective measures**: Behavioral outcomes, not just attitudes  
 ✓ **Unobtrusive**: No Hawthorne effect (data collected before research question)
 ✓ **Rare events**: Can study infrequent outcomes (executive promotion, termination)
 ✓ **Historical perspective**: Examine trends over time
 
 **Disadvantages:**
 
-✗ **Limited variables**: Can only study what was already measured [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✗ **Limited variables**: Can only study what was already measured  
   - No job satisfaction data if it wasn't surveyed
   - No leadership quality if it wasn't assessed
-✗ **Missing data**: Incomplete records, inconsistent measurement across years [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
-✗ **Measurement quality**: Data not collected with research rigor [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✗ **Missing data**: Incomplete records, inconsistent measurement across years  
+✗ **Measurement quality**: Data not collected with research rigor  
   - Performance ratings may be biased
   - Inconsistent definitions across departments
   - Changes in measurement systems over time
-✗ **Correlational**: Archival data is almost always correlational (no manipulation) [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+✗ **Correlational**: Archival data is almost always correlational (no manipulation)  
 ✗ **Data access barriers**: Privacy concerns, proprietary information, legal restrictions
 ✗ **Unknown validity**: Don't know reliability/validity of measures
 
@@ -1073,14 +1073,14 @@ Many researchers combine settings:
 
 ## **INTRODUCTION: WHY STATISTICS MATTER IN I/O PSYCHOLOGY**
 
-Statistics are the **language** of empirical research. Every claim you make about workplace behavior must be supported by statistical evidence. Without statistics, we cannot: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Statistics are the **language** of empirical research. Every claim you make about workplace behavior must be supported by statistical evidence. Without statistics, we cannot:  
 - Summarize data in meaningful ways
 - Determine if patterns are real or due to chance
 - Compare groups objectively
 - Make predictions
 - Draw conclusions from research
 
-I/O psychologists use two broad categories of statistics: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+I/O psychologists use two broad categories of statistics:  
 
 1. **Descriptive Statistics**: Summarize and describe data
 2. **Inferential Statistics**: Make inferences about populations from samples
@@ -1091,7 +1091,7 @@ I/O psychologists use two broad categories of statistics: [youtube](https://www.
 
 ### **1.1 Purpose of Descriptive Statistics**
 
-**Definition**: Statistical techniques that summarize and describe the basic features of a dataset. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Statistical techniques that summarize and describe the basic features of a dataset.  
 
 **Goal**: Reduce large amounts of data into understandable, interpretable summaries
 
@@ -1103,11 +1103,11 @@ I/O psychologists use two broad categories of statistics: [youtube](https://www.
 
 ### **1.2 Measures of Central Tendency**
 
-These statistics describe the "typical" or "average" score in a dataset. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+These statistics describe the "typical" or "average" score in a dataset.  
 
 #### **1.2.1 Mean (M): The Arithmetic Average**
 
-**Definition**: The sum of all scores divided by the number of scores. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: The sum of all scores divided by the number of scores.  
 
 **Formula**:
 \[ M = \frac{\sum X}{N} \]
@@ -1179,7 +1179,7 @@ The mean is technically correct but highly misleading!
 
 #### **1.2.2 Median: The Middle Score**
 
-**Definition**: The score that divides the distribution in half—50% of scores are above it, 50% below. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: The score that divides the distribution in half—50% of scores are above it, 50% below.  
 
 **How to Calculate:**
 
@@ -1260,7 +1260,7 @@ The median is MUCH more accurate here!
 
 #### **1.2.3 Mode: The Most Frequent Score**
 
-**Definition**: The score that occurs most often in the dataset. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: The score that occurs most often in the dataset.  
 
 **How to Calculate**: Count frequency of each score; identify the most common
 
@@ -1409,7 +1409,7 @@ Example: Age at retirement (most retire at 65, few retire very early)
 
 ### **1.3 Measures of Variability**
 
-Central tendency tells you the "average," but variability tells you how **spread out** scores are. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Central tendency tells you the "average," but variability tells you how **spread out** scores are.  
 
 **Why Variability Matters:**
 
@@ -1458,7 +1458,7 @@ Range = 6 - 2 = 4
 
 #### **1.3.2 Standard Deviation (SD): The Most Important Measure**
 
-**Definition**: The average distance of scores from the mean. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: The average distance of scores from the mean.  
 
 **Conceptual Idea**: "On average, how far away are scores from the mean?"
 
@@ -1678,7 +1678,7 @@ We almost never have data on the entire population. Instead:
 - We study a **sample** (e.g., 500 employees)
 - We want to make conclusions about the **population** (e.g., all employees in the industry)
 
-**Key Question**: Is the pattern we observed in our sample **real** (exists in the population), or just **random chance** (sampling error)? [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Key Question**: Is the pattern we observed in our sample **real** (exists in the population), or just **random chance** (sampling error)?  
 
 **Example:**
 ```
@@ -1695,10 +1695,10 @@ Inferential statistics answer this question.
 
 ### **2.2 Statistical Significance and p-values**
 
-**Definition**: Statistical significance indicates that the observed result is unlikely to have occurred by chance alone. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: Statistical significance indicates that the observed result is unlikely to have occurred by chance alone.  
 
 **The p-value**:
-**Definition**: The probability of obtaining results as extreme as (or more extreme than) what you observed, **assuming there is no true effect in the population**. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: The probability of obtaining results as extreme as (or more extreme than) what you observed, **assuming there is no true effect in the population**.  
 
 **Formula** (conceptual):
 \[ p = P(\text{data} | H_0) \]
@@ -1709,21 +1709,21 @@ Where:
 
 **Interpretation:**
 
-**p < .05**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**p < .05**:  
 - **Statistically significant**
 - Less than 5% chance results are due to random chance
 - We **reject the null hypothesis** (conclude there IS an effect)
 - Convention: This is the standard threshold in I/O Psychology
 
-**p < .01**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**p < .01**:  
 - **Highly significant**
 - Less than 1% chance results are random
 
-**p < .001**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**p < .001**:  
 - **Very highly significant**
 - Less than 0.1% chance results are random
 
-**p ≥ .05**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**p ≥ .05**:  
 - **Not statistically significant**
 - Results could easily be due to chance
 - We **fail to reject the null hypothesis** (cannot conclude there's an effect)
@@ -1825,11 +1825,11 @@ It does NOT answer: "How likely is it that there's a real effect?"
 
 ## **SECTION 3: COMPARING GROUPS**
 
-When your research question asks **"Do groups differ?"** you use t-tests or ANOVA. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+When your research question asks **"Do groups differ?"** you use t-tests or ANOVA.  
 
 ### **3.1 Independent Samples t-test: Comparing Two Groups**
 
-**When to Use**: Compare means of **two independent groups**. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**When to Use**: Compare means of **two independent groups**.  
 
 **Independent Groups**: Participants are in **one group OR the other**, not both
 - Example: Men vs. Women
@@ -1905,7 +1905,7 @@ This represents a medium effect size."
 
 ### **3.2 ANOVA: Comparing Three or More Groups**
 
-**When to Use**: Compare means across **3 or more groups**. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**When to Use**: Compare means across **3 or more groups**.  
 
 **Why Not Just Multiple t-tests?**
 ```
@@ -2021,13 +2021,13 @@ Customer Service (p < .001)."
 
 ### **4.1 What is Correlation?**
 
-**Definition**: A statistical measure of the strength and direction of the relationship between two continuous variables. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: A statistical measure of the strength and direction of the relationship between two continuous variables.  
 
-**Correlation Coefficient (r)**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Correlation Coefficient (r)**:  
 - **Range**: -1.00 to +1.00
 - Developed by Karl Pearson (Pearson correlation)
 
-**Two Key Aspects**: [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Two Key Aspects**:  
 1. **Direction**: Positive or negative
 2. **Strength**: Weak, moderate, or strong
 
@@ -2035,7 +2035,7 @@ Customer Service (p < .001)."
 
 #### **Positive Correlation (r > 0)**
 
-**Definition**: As X increases, Y increases; as X decreases, Y decreases. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: As X increases, Y increases; as X decreases, Y decreases.  
 
 Variables change in the **same direction**.
 
@@ -2067,7 +2067,7 @@ Upward slope (positive relationship)
 
 #### **Negative Correlation (r < 0)**
 
-**Definition**: As X increases, Y decreases; as X decreases, Y increases. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+**Definition**: As X increases, Y decreases; as X decreases, Y increases.  
 
 Variables change in **opposite directions**.
 
@@ -2125,7 +2125,7 @@ No pattern (random scatter)
 
 ### **4.3 Strength of Correlation**
 
-The **absolute value** of r indicates strength. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+The **absolute value** of r indicates strength.  
 
 **Guidelines** (Cohen, 1988):
 
@@ -2301,7 +2301,7 @@ But 73% of turnover variance is explained by other factors
 
 ### **4.7 Reminder: Correlation ≠ Causation**
 
-Even with strong, significant correlations, you **cannot infer causation**. [youtube](https://www.youtube.com/watch?v=Kcm-s-xaQDU)
+Even with strong, significant correlations, you **cannot infer causation**.  
 
 ```
 Finding: Job satisfaction and performance correlated (r = 0.35)
