@@ -4,18 +4,18 @@
 
 ## **INTRODUCTION: THE IMPORTANCE OF TRAINING IN ORGANIZATIONS**
 
-Employee training and development is one of the most critical functions in Industrial Psychology. Training refers to systematic efforts to help employees acquire job-related knowledge, skills, and behaviors that improve their performance. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+Employee training and development is one of the most critical functions in Industrial Psychology. Training refers to systematic efforts to help employees acquire job-related knowledge, skills, and behaviors that improve their performance. 
 
 **Why Organizations Invest in Training:**
 
-Organizations spend billions of dollars annually on employee training. This massive investment reflects several key realities: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+Organizations spend billions of dollars annually on employee training. This massive investment reflects several key realities:  
 
-**1. Selection Limitations** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. Selection Limitations**  
 - It's difficult to find applicants who already possess all desired skills
 - The labor market doesn't always provide "ready-made" employees
 - Training compensates for skill gaps in new hires
 
-**2. Changing Job Demands** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**2. Changing Job Demands**  
 - Technology evolves rapidly (new software, systems, tools)
 - Job procedures change (new regulations, best practices)
 - Market conditions shift (new products, services, customer expectations)
@@ -44,13 +44,13 @@ Organizations spend billions of dollars annually on employee training. This mass
 
 ## **PART 1: EMPLOYEE ORIENTATION AND ONBOARDING**
 
-The first training experience for new employees is critical for long-term success. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+The first training experience for new employees is critical for long-term success.  
 
 ### **1.1 Employee Orientation**
 
-**Definition**: The initial process of introducing new employees to the organization, focusing on administrative and procedural aspects of employment. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: The initial process of introducing new employees to the organization, focusing on administrative and procedural aspects of employment.  
 
-**Primary Focus**: Paperwork and logistics [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Primary Focus**: Paperwork and logistics  
 
 **Typical Orientation Activities:**
 
@@ -93,9 +93,9 @@ The first training experience for new employees is critical for long-term succes
 
 ### **1.2 Employee Onboarding**
 
-**Definition**: A more comprehensive, personal approach to integrating new employees into the work environment, fostering assimilation and building a cohesive team. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: A more comprehensive, personal approach to integrating new employees into the work environment, fostering assimilation and building a cohesive team.  
 
-**Primary Focus**: Socialization and integration [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Primary Focus**: Socialization and integration  
 
 **Key Differences from Orientation:**
 
@@ -149,7 +149,7 @@ One-way communication      →    Two-way dialogue
 
 **Effective Onboarding Practices:**
 
-**Build Relationships**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Build Relationships**:  
 - Assign a mentor or "buddy" (experienced peer)
 - Facilitate introductions to key people
 - Include new employee in team meetings and social events
@@ -167,20 +167,20 @@ One-way communication      →    Two-way dialogue
 - Provide job aids and reference materials
 - Offer training on systems and processes
 
-**Foster Cultural Assimilation**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Foster Cultural Assimilation**:  
 - Explain organizational values and how they're lived
 - Share stories that illustrate company culture
 - Model desired behaviors
 - Help employee understand "how things work here"
 
-**Benefits of Effective Onboarding**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Benefits of Effective Onboarding**:  
 
 **1. Improved Retention:**
 - Employees with good onboarding are significantly more likely to stay
 - Reduces costly early turnover (employees leaving in first year)
 - Research shows: 69% of employees are more likely to stay 3+ years with great onboarding
 
-**2. Faster Time to Productivity**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**2. Faster Time to Productivity**:  
 - Well-onboarded employees reach full productivity more quickly
 - Reduces the "learning curve" period
 - Accelerates contribution to team and organization
@@ -243,9 +243,9 @@ Result: Employee feels welcomed, confident, engaged, productive
 
 ## **PART 2: TRAINING NEEDS ANALYSIS**
 
-Before designing any training program, organizations must systematically determine **who** needs training, **what** they need to learn, and **why**. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+Before designing any training program, organizations must systematically determine **who** needs training, **what** they need to learn, and **why**.  
 
-**Definition**: Training Needs Analysis (TNA) is a systematic process of identifying training requirements from organizational, job, and individual perspectives. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Training Needs Analysis (TNA) is a systematic process of identifying training requirements from organizational, job, and individual perspectives.  
 
 **Why TNA Is Critical:**
 
@@ -255,7 +255,7 @@ Without needs analysis:
 - Training may teach irrelevant content (no job application)
 - Organizations can't measure training effectiveness (no baseline)
 
-**The Three-Level Framework**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**The Three-Level Framework**:  
 
 ```
 LEVEL 1: ORGANIZATIONAL ANALYSIS
@@ -270,7 +270,7 @@ LEVEL 3: PERSON ANALYSIS
 
 ### **2.1 Organizational Analysis**
 
-**Definition**: Examination of organizational goals, resources, and climate to determine where training is needed and whether training will be supported. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Examination of organizational goals, resources, and climate to determine where training is needed and whether training will be supported.  
 
 **Key Questions:**
 
@@ -290,7 +290,7 @@ LEVEL 3: PERSON ANALYSIS
 - What competencies are needed for future success?
 - Which skills gaps threaten organizational goals?
 
-**Factors That Facilitate Training Effectiveness**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Factors That Facilitate Training Effectiveness**:  
 
 **Supportive Climate:**
 - Leadership values learning and development
@@ -310,7 +310,7 @@ LEVEL 3: PERSON ANALYSIS
 - Performance expectations align with training
 - Rewards for applying new skills
 
-**Factors That Inhibit Training Effectiveness**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Factors That Inhibit Training Effectiveness**:  
 
 **Unsupportive Climate:**
 - "We don't have time for training"
@@ -363,9 +363,9 @@ Decision: Training is PART of solution, but must be combined with:
 
 ### **2.2 Task (Job) Analysis**
 
-**Definition**: Systematic examination of a job to identify the specific tasks, conditions, and competencies (knowledge, skills, abilities) required to perform the job successfully. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Systematic examination of a job to identify the specific tasks, conditions, and competencies (knowledge, skills, abilities) required to perform the job successfully.  
 
-**Purpose**: Determine **what** should be taught in training. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Purpose**: Determine **what** should be taught in training.  
 
 **Key Questions:**
 
@@ -386,7 +386,7 @@ Decision: Training is PART of solution, but must be combined with:
 
 **Methods for Conducting Task Analysis:**
 
-**1. Subject Matter Expert (SME) Interviews**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. Subject Matter Expert (SME) Interviews**:  
 - Interview experienced employees who perform the job
 - Interview supervisors who manage the job
 - Ask about tasks, challenges, required competencies
@@ -396,7 +396,7 @@ Decision: Training is PART of solution, but must be combined with:
 - Document tasks and workflows
 - Note challenges and skill requirements
 
-**3. Critical Incidents Technique**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**3. Critical Incidents Technique**:  
 - Collect documented examples of excellent and poor performance
 - Analyze what distinguished effective from ineffective performance
 - Identify critical competencies
@@ -483,9 +483,9 @@ Training Focus: High-priority competencies that directly impact sales performanc
 
 ### **2.3 Person Analysis**
 
-**Definition**: Determination of which specific employees need training and in what areas. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Determination of which specific employees need training and in what areas.  
 
-**Purpose**: Identify **who** should be trained. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Purpose**: Identify **who** should be trained.  
 
 **Key Questions:**
 
@@ -503,9 +503,9 @@ Training Focus: High-priority competencies that directly impact sales performanc
 - Lack of knowledge/skill (training solution)
 - OR lack of motivation, tools, support (non-training solution)
 
-**Methods for Person Analysis**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Methods for Person Analysis**:  
 
-**1. Performance Appraisal Data**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. Performance Appraisal Data**:  
 - Review performance ratings and evaluations
 - Identify employees with low ratings
 - Analyze specific areas of deficiency
@@ -531,7 +531,7 @@ Decision: 15 employees need training
 Priority: Product knowledge and presentation skills (most common gaps)
 ```
 
-**2. Surveys and Self-Assessments**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**2. Surveys and Self-Assessments**:  
 - Ask employees to rate their own competencies
 - Identify perceived skill gaps
 - Assess training motivation and readiness
@@ -549,7 +549,7 @@ Conducting performance reviews       1           YES
 Conflict resolution                  2           YES
 ```
 
-**3. Skills Tests**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**3. Skills Tests**:  
 - Administer tests of job-relevant knowledge or skills
 - Compare employee scores to proficiency standards
 - Identify those below acceptable level
@@ -629,11 +629,11 @@ Training alone would fail! Need multi-faceted intervention.
 
 ## **PART 3: DEVELOPING A TRAINING PROGRAM**
 
-Once training needs are identified, organizations must design and implement effective training. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+Once training needs are identified, organizations must design and implement effective training.  
 
 ### **3.1 Establishing Training Goals and Objectives**
 
-**Definition**: Clear, specific statements of what trainees should know or be able to do after training. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Clear, specific statements of what trainees should know or be able to do after training.  
 
 **Why Goals Matter:**
 
@@ -643,7 +643,7 @@ Without clear objectives:
 - Trainees don't know what's expected
 - Cannot evaluate whether training succeeded
 
-**Characteristics of Effective Training Objectives**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Characteristics of Effective Training Objectives**:  
 
 **1. Specific and Concrete:**
 - State exactly what trainees will learn
@@ -712,9 +712,9 @@ with 100% accuracy (D)."
 
 ### **3.2 Maximizing Trainee Motivation**
 
-**The Central Challenge**: Training only works if employees are **motivated** to attend and to learn. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**The Central Challenge**: Training only works if employees are **motivated** to attend and to learn.  
 
-**Two Critical Motivation Points**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Two Critical Motivation Points**:  
 
 **1. Motivation to Attend Training**
 - Will employees show up?
@@ -725,7 +725,7 @@ with 100% accuracy (D)."
 - Will they practice skills and seek mastery?
 - Will they persist when material is challenging?
 
-**Factors That Increase Training Motivation**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Factors That Increase Training Motivation**:  
 
 **1. Perceived Job Relevance**
 - Training content clearly relates to job tasks
@@ -751,7 +751,7 @@ Employee thinks: "When will I ever use this?"
 Result: Low motivation ✗
 ```
 
-**2. Career Benefits** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**2. Career Benefits**  
 - Training supports career goals and advancement
 - Develops skills needed for promotion
 - Increases employability and marketability
@@ -761,7 +761,7 @@ Result: Low motivation ✗
 - **Promotion opportunities**: "Leadership training prepares you for management roles"
 - **Skill development**: "These skills are valuable across industries"
 
-**3. Self-Improvement** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**3. Self-Improvement**  
 - Training builds confidence and competence
 - Helps employees take pride in their work
 - Provides sense of mastery and achievement
@@ -772,7 +772,7 @@ Result: Low motivation ✗
 - Training participation considered in performance reviews
 - Completing training leads to recognition or rewards
 
-**5. Engaging Training Design** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**5. Engaging Training Design**  
 - Content is interesting and interactive (not boring lectures)
 - Training is fun and enjoyable (games, competitions, social interaction)
 - Variety in activities (not monotonous)
@@ -796,7 +796,7 @@ Gamified Compliance Training:
 Result: Employees are engaged, compete to win, remember content
 ```
 
-**Strategies to Enhance Motivation**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Strategies to Enhance Motivation**:  
 
 **Before Training:**
 - Clearly communicate learning objectives and benefits
@@ -820,9 +820,9 @@ Result: Employees are engaged, compete to win, remember content
 
 ### **3.3 Providing Effective Feedback**
 
-**Definition**: Feedback is information provided to trainees about their performance, indicating what they did well and what needs improvement. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Feedback is information provided to trainees about their performance, indicating what they did well and what needs improvement.  
 
-**Why Feedback Is Critical**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Why Feedback Is Critical**:  
 
 Learning requires knowing:
 - "Am I doing this correctly?"
@@ -835,7 +835,7 @@ Learning requires knowing:
 - Trainees become frustrated or discouraged
 - Learning plateaus
 
-**Characteristics of Effective Feedback**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Characteristics of Effective Feedback**:  
 
 **1. Specific and Concrete:**
 - Identifies exact behaviors (not vague generalities)
@@ -920,11 +920,11 @@ Result: Progressive skill building through specific, frequent feedback
 
 ### **3.4 Ensuring Transfer of Training**
 
-**Definition**: Transfer of training is the extent to which trainees apply knowledge, skills, and behaviors learned in training to their actual job. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Transfer of training is the extent to which trainees apply knowledge, skills, and behaviors learned in training to their actual job.  
 
 **The Transfer Problem:**
 
-This is one of the biggest challenges in training: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+This is one of the biggest challenges in training:  
 - Employees learn skills in training
 - They return to the job
 - They **don't use what they learned**
@@ -932,9 +932,9 @@ This is one of the biggest challenges in training: [youtube](https://www.youtube
 
 **Research finding**: Only 10-20% of training content is typically applied on the job without interventions to enhance transfer.
 
-**Factors That Enhance Transfer**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Factors That Enhance Transfer**:  
 
-**1. Supervisor Support** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**1. Supervisor Support**  
 
 **Before Training:**
 - Manager discusses training objectives with employee
@@ -946,13 +946,13 @@ This is one of the biggest challenges in training: [youtube](https://www.youtube
 - Manager doesn't send message that training is unimportant
 
 **After Training:**
-- **Manager encourages application** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+- **Manager encourages application**  
   - "Show me what you learned"
   - "Let's try that new technique on this project"
-- **Manager provides opportunities to practice** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+- **Manager provides opportunities to practice**  
   - Assigns tasks that require new skills
   - Allows time for practice and refinement
-- **Manager reinforces use of new skills** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+- **Manager reinforces use of new skills**  
   - Recognizes and praises application
   - Provides coaching and feedback
   - Discusses challenges in applying skills
@@ -987,7 +987,7 @@ the training taught. Keep using this approach."
 Result: Skills applied and reinforced ✓
 ```
 
-**2. Rewards for Using New Skills** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**2. Rewards for Using New Skills**  
 - Performance reviews include application of training
 - Bonuses or recognition tied to skill demonstration
 - Career advancement linked to skill development
@@ -1020,7 +1020,7 @@ Result: Skills don't translate to real job demands
 - Trying new approaches is supported
 - Mistakes during skill development are tolerated
 
-**Barriers to Transfer**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Barriers to Transfer**:  
 
 **1. Lack of Opportunity:**
 - Job doesn't require new skills
@@ -1046,11 +1046,11 @@ Result: Skills don't translate to real job demands
 
 ## **PART 4: TYPES OF TRAINING METHODS**
 
-Organizations use various methods to deliver training. The choice depends on learning objectives, trainee characteristics, resources, and organizational constraints. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+Organizations use various methods to deliver training. The choice depends on learning objectives, trainee characteristics, resources, and organizational constraints.  
 
 ### **4.1 Classroom Instruction**
 
-**Definition**: Traditional instructor-led training where trainees gather in a physical location for face-to-face instruction. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Traditional instructor-led training where trainees gather in a physical location for face-to-face instruction.  
 
 **Typical Format:**
 - Instructor presents content (lecture, discussion, demonstrations)
@@ -1059,7 +1059,7 @@ Organizations use various methods to deliver training. The choice depends on lea
 
 **Advantages:**
 
-✓ **Structured Learning**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+✓ **Structured Learning**:  
 - Organized, systematic content delivery
 - Clear learning path and schedule
 
@@ -1079,7 +1079,7 @@ Organizations use various methods to deliver training. The choice depends on lea
 
 **Disadvantages:**
 
-✗ **Inflexible Pace**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+✗ **Inflexible Pace**:  
 - All trainees must move at same speed
 - Fast learners become bored
 - Slow learners fall behind
@@ -1127,9 +1127,9 @@ Weaknesses:
 
 ### **4.2 Individual Training Methods**
 
-**Definition**: Training that allows employees to learn at their own pace, often using self-paced materials. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Training that allows employees to learn at their own pace, often using self-paced materials.  
 
-**Types**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Types**:  
 
 #### **A. Printed Materials (Books, Manuals, Workbooks)**
 
@@ -1163,7 +1163,7 @@ Weaknesses:
 ✗ Can be boring (passive watching)
 ✗ No hands-on practice
 
-#### **C. Computer-Based Training (CBT)** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **C. Computer-Based Training (CBT)**  
 
 **Description:**
 - Interactive software programs
@@ -1171,10 +1171,10 @@ Weaknesses:
 - Often includes quizzes, simulations, branching scenarios
 
 **Advantages:**
-✓ **Self-paced**: Employees progress at own speed [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
-✓ **Convenient**: Can train at any time, any location [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
-✓ **Cost-effective**: No trainer needed, scalable [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
-✓ **Active involvement**: Interactive (not passive) [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+✓ **Self-paced**: Employees progress at own speed  
+✓ **Convenient**: Can train at any time, any location  
+✓ **Cost-effective**: No trainer needed, scalable  
+✓ **Active involvement**: Interactive (not passive)  
 ✓ **Immediate feedback**: Built-in assessments
 ✓ **Tracking**: Can monitor completion and scores
 
@@ -1212,7 +1212,7 @@ Advantages for organization:
 ✓ Cost: Develop once, use repeatedly
 ```
 
-#### **D. E-Learning (Online Training)** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **D. E-Learning (Online Training)**  
 
 **Description:**
 - Training delivered via internet
@@ -1244,7 +1244,7 @@ Advantages for organization:
 ✗ Distractions in remote environments
 ✗ "Zoom fatigue" (synchronous formats)
 
-#### **E. Social Media and Microlearning** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **E. Social Media and Microlearning**  
 
 **Description:**
 - Short, bite-sized learning content
@@ -1269,14 +1269,14 @@ Advantages for organization:
 
 ### **4.3 On-the-Job Training (OJT)**
 
-**Definition**: Training that occurs while the employee is performing actual job tasks in the real work environment. [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Definition**: Training that occurs while the employee is performing actual job tasks in the real work environment.  
 
 **Characteristics:**
 - Learning by doing (experiential)
-- Informal and practical [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
-- Guided by experienced employees or supervisors [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+- Informal and practical  
+- Guided by experienced employees or supervisors  
 
-#### **A. Behavioral Modeling** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **A. Behavioral Modeling**  
 
 **Definition**: Learning by observing and imitating an expert's behavior.
 
@@ -1319,7 +1319,7 @@ Step 4: Feedback and refinement
 ✗ Time-intensive for expert
 ✗ May learn bad habits if model is flawed
 
-#### **B. Job Rotation** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **B. Job Rotation**  
 
 **Definition**: Employees temporarily work in different roles or departments to broaden their experience and skills.
 
@@ -1359,7 +1359,7 @@ Result: Manager has holistic understanding of business
 ✗ May not develop deep expertise
 ✗ Productivity dip during transitions
 
-#### **C. Apprenticeship** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **C. Apprenticeship**  
 
 **Definition**: Structured, long-term on-the-job training combining work experience with formal instruction.
 
@@ -1411,7 +1411,7 @@ Completion:
 ✗ High dropout rates
 ✗ Limited to certain professions
 
-#### **D. Internships** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **D. Internships**  
 
 **Definition**: Short-term work experience for students or career changers, providing exposure to a profession or organization.
 
@@ -1460,7 +1460,7 @@ Outcome:
 
 ## **PART 5: EVALUATING TRAINING EFFECTIVENESS**
 
-**Critical Question**: Did the training work? [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**Critical Question**: Did the training work?  
 
 Organizations invest billions in training, but often don't rigorously evaluate whether it achieved its objectives.
 
@@ -1490,7 +1490,7 @@ Organizations invest billions in training, but often don't rigorously evaluate w
 
 ### **5.2 Common Evaluation Methods**
 
-#### **Method 1: Employee Reactions** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **Method 1: Employee Reactions**  
 
 **Definition**: Measuring trainees' satisfaction with and perceptions of the training.
 
@@ -1534,7 +1534,7 @@ Open-ended:
 
 **Common Finding**: Reaction scores are weakly correlated with actual learning or behavior change. Employees may enjoy training but not learn or apply anything.
 
-#### **Method 2: Knowledge Assessment** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **Method 2: Knowledge Assessment**  
 
 **Definition**: Measuring what trainees learned (knowledge, facts, concepts, procedures).
 
@@ -1542,7 +1542,7 @@ Open-ended:
 
 **Methods:**
 
-**A. Quizzes and Tests**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**A. Quizzes and Tests**:  
 - Multiple choice, true/false, short answer
 - Administered before and after training (pre-test/post-test)
 - Improvement indicates learning
@@ -1558,7 +1558,7 @@ Improvement: +26 percentage points
 Conclusion: Trainees learned content ✓
 ```
 
-**B. Computer Adaptive Testing**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**B. Computer Adaptive Testing**:  
 - Technology-based assessment
 - Adjusts difficulty based on trainee responses
 - More efficient and precise than fixed tests
@@ -1604,7 +1604,7 @@ Pass/Fail based on criteria
 ✗ Knowledge ≠ ability to perform in real situations
 ✗ May not capture complex skills
 
-#### **Method 3: Behavioral Change / On-the-Job Application** [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+#### **Method 3: Behavioral Change / On-the-Job Application**  
 
 **Definition**: Measuring whether trainees actually use new skills and behaviors on the job.
 
@@ -1612,7 +1612,7 @@ Pass/Fail based on criteria
 
 **Methods:**
 
-**A. Supervisor Observation**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**A. Supervisor Observation**:  
 - Manager watches employee perform job tasks
 - Evaluates use of trained skills
 - Provides ratings or narrative feedback
@@ -1630,7 +1630,7 @@ Manager observes employee handling customer complaint:
 Rating: 4/5 (Effective application of training)
 ```
 
-**B. Performance Appraisals**: [youtube](https://www.youtube.com/watch?v=v2X-SbIR2Tk)
+**B. Performance Appraisals**:  
 - Compare performance ratings before and after training
 - Look for improvement in relevant competencies
 
